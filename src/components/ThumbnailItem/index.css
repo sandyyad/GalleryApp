@@ -1,0 +1,9 @@
+/* Write your code here. */
+.Thumb-list-el {
+  list-style: none;
+  border: 2px solid salmon;
+  margin-right: 15px;
+}
+.button {
+  cursor: pointer;
+}
